@@ -1,0 +1,11 @@
+package practice;
+
+import javax.swing.JOptionPane;
+
+public class Exam02 {
+
+	public static void main(String[] args) {
+		String strHeight = JOptionPane.showInputDialog()
+	}
+
+}
