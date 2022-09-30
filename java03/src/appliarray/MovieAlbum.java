@@ -1,4 +1,4 @@
-package appliArray;
+package appliarray;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

@@ -1,4 +1,4 @@
-package basicArray;
+package basicarray;
 
 public class MakeArray2 {
 

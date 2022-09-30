@@ -1,4 +1,4 @@
-package appliArray;
+package appliarray;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
@@ -30,7 +30,7 @@ public class MovieReservation {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					String s = e.getActionCommand();
-					JOptionPane.showMessageDialog(f, s + "번 예약완료");	
+					JOptionPane.showMessageDialog(f, s + "번 예약완료");
 					btn.setEnabled(false);
 					btn.setBackground(Color.red);
 					int index = Integer.parseInt(s.substring(2));
@@ -48,7 +48,6 @@ public class MovieReservation {
 				}
 			});
 		}
-		
 		
 		f.setVisible(true);
 	}

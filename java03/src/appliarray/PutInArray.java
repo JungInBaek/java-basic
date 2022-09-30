@@ -1,4 +1,4 @@
-package appliArray;
+package appliarray;
 
 import java.util.Scanner;
 
