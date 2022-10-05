@@ -1,9 +1,0 @@
-package javabasic;
-
-public class Test {
-
-	public static void main(String[] args) {
-		System.out.println("프린트 자동완성");
-	}
-
-}
