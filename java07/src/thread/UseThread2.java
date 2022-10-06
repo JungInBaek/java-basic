@@ -4,7 +4,7 @@ public class UseThread2 {
 
 	public static void main(String[] args) {
 		CountThread ct = new CountThread();
-		VisionThread vt = new VisionThread();
+		DateThread vt = new DateThread();
 		ArrayThread at = new ArrayThread();
 		
 		ct.start();

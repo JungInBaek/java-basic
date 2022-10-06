@@ -2,7 +2,7 @@ package thread;
 
 import java.util.Date;
 
-public class VisionThread extends Thread {
+public class DateThread extends Thread {
 	
 	@Override
 	public void run() {
